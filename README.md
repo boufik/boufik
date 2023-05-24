@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @boufik
-- 👀 I’m interested in whatever is related to electrical components, computers, wireless networks and technology
-- 🌱 I’m currently learning Machine Learning Algorithms and working on my thesis
+- ✔  Electrical and Computer Engineer - Honors Graduate (GPA = 8.74 / 10.00)
+- 👀 I’m interested in whatever is related to computers, wireless communication, networks and technology
+- 🌱 I’m currently studying online courses to acquire more knowledge and grab some certificates
 - 💞️ I’m looking to collaborate with other engineers and share our innovative ideas
 - 📫 How to reach me: thomasboufikos@gmail.com
 

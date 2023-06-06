@@ -3,6 +3,7 @@
 - 👀 I’m interested in whatever is related to computers, wireless communication, networks and technology
 - 🌱 I’m currently studying online courses to acquire more knowledge and grab some certificates
 - 💞️ I’m looking to collaborate with other engineers and share our innovative ideas
+- 🎯 My other code repository: https://pastebin.com/u/makispaiktis (old username 🤣, but new ideas and code inside)
 - 📫 How to reach me: thomasboufikos@gmail.com
 
 <!---

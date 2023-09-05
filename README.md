@@ -2,7 +2,7 @@
 - ✔  Electrical and Computer Engineer - M.Eng. at AUTH - Honors Graduate (GPA = 8.74 / 10.00)
 - 👀 I’m interested in whatever is related to computers, wireless communication, networks and technology
 - 🎓 Master's Thesis on a synergetic system of a UAV and a RIS for a IoT data collection scenario
-- 🌱 I’m currently studying online courses to acquire more knowledge and grab some certificates
+- 🌱 I’m currently studying online courses to acquire more knowledge and certify my skills
 - 🐱‍🏍 Staying updated about tech news, attending online and offline events and hands-on workshops
 - 💞️ I’m looking to collaborate with other engineers and share our innovative ideas
 

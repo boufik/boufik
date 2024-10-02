@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boufik
-- ✔  Electrical and Computer Engineer - M.Eng. at AUTH - Honors Graduate (GPA = 8.74 / 10.00)
+- ✔  Electrical and Computer Engineer - Master of Engineering (M.Eng.) at AUTH - Honors Graduate (GPA = 8.74 / 10.00)
 - 👀 I’m interested in every aspect of technology: computers, wireless communication and networks
 - 🎓 Master's Thesis on a synergetic system of a UAV and a RIS for a IoT data collection scenario (research)
 - 🌱 I love studying online courses to acquire more knowledge and certify my skills

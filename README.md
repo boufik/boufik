@@ -6,7 +6,7 @@
 - 🐱‍🏍 Always staying updated about tech news, attending online and offline events and hands-on workshops
 - 💞️ Looking to collaborate with other engineers and share our innovative ideas
 
-- 💕 Most loved languages: MATLAB, Python, Arduino, Java
+- 💕 Most loved languages: Python, MATLAB, Arduino, Java
 - 📫 How to reach me: thomasboufikos@gmail.com
 - ✈ You can also text me via Linkedin: www.linkedin.com/in/thomas-boufikos-302899220
 
